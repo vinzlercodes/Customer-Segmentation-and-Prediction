@@ -1,4 +1,4 @@
-# Customer-Segmentation-and-Prediction
+# Customer Segmentation and Prediction
 
 -------
 ## Project Motivation
